@@ -11,9 +11,7 @@ This Python project scrapes laptop data from Flipkart's search results page usin
 - Image links
 
 ## Libraries Used
-
 Make sure you have the following Python libraries installed:
-
 - requests  
 - beautifulsoup4 (or bs4)  
 - pandas
@@ -21,7 +19,6 @@ Make sure you have the following Python libraries installed:
 ## How to Run the Project
 
 Follow these steps:
-
 1. Clone this repository or download the Python file:
 
 git clone https://github.com/your-username/flipkart-laptop-scraper.git
