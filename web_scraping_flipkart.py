@@ -1,4 +1,4 @@
-#                                                           web scraping project on flipkart 
+#                                                          web scraping project on flipkart 
 #importing required libaries
 import requests
 from bs4 import BeautifulSoup
